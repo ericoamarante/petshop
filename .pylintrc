@@ -438,6 +438,8 @@ disable=raw-checker-failed,
         use-implicit-booleaness-not-comparison-to-zero,
         missing-module-docstring,
         missing-function-docstring,
+        missing-class-docstring,
+        broad-except,
         unrecognized-option
 
 
