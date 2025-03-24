@@ -1,4 +1,7 @@
 venv
 storage.db
 storage_backup.db
+**/__pycache__
+**/*.pytest_cache
 .gitignore
+.vscode
